@@ -1,0 +1,4275 @@
+body
+{
+    background: #f3f3f3;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+input
+{
+    background: transparent;
+    
+}
+
+
+.translate
+{
+    text-align: center;
+}
+
+        .miraluna-icon
+        {
+            text-align: center;
+            padding: 110px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 80px;
+        }
+        
+        span 
+        {
+            color: rgba(0, 174, 255, 0.774);
+            font-family: 'Play', sans-serif;
+        }
+
+    .footer
+    {
+        color:gray;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 14px;
+    }
+
+    .this3
+    {
+        margin-top: 150px;
+    }
+
+ .heading
+ {
+     margin-top: 15%;
+ }
+
+ .this-heading
+ {
+     font-size: 80px;
+     color: #02a5f7c7;
+     font-family: 'Play', sans-serif;
+     padding: 0px 55px 0px;
+     
+ }
+
+ .btm
+ {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 23px;
+     color: rgb(194, 194, 194);
+     padding: 0px 55px 0px;
+     margin-top: -5%;
+ }
+
+ .more
+ {
+    margin-top: 4%;
+    padding: 0px 55px 0px;
+ }
+
+ .remo
+ {
+    color: #02a5f7c7;
+    font-family: 'Play', sans-serif;
+    font-size: 17px;
+    padding: 18px 35px;
+    border: 1px solid #02a5f7c7;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: bold;
+ }
+ 
+ .remo:hover
+ {
+     color: #ffffff;
+     transition: .4s;
+     outline: none;
+     background: #02a5f7c7;
+ }
+
+
+@media only screen and (max-width: 1920px)
+{
+
+
+body
+{
+    background-color: rgb(252, 252, 252);
+}    
+    
+.side
+{   
+    margin-left: 63%;
+    border: 1px solid rgba(158, 158, 158, 0.274);
+    width: 360px;
+    padding: 30px;
+    border-radius: 5px;
+    margin-top: -33%;
+    height: 425px;
+    background-color: white;
+}
+
+img
+{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.image
+{
+    border-radius: 0px;
+    padding: 15px 70px 0px;
+    width: 35px;
+}
+
+.brand
+{
+    margin-top: -38px;
+    padding: 0px 20px 0px;
+}
+
+.logo
+{
+    text-decoration: none;
+    color: #02A7F7;
+}
+
+.this
+{
+    margin-top: 2%;
+}
+
+.this2
+{
+    margin-top: 10%;
+}
+
+.translate
+{
+    margin-top: 20px;
+}
+
+.age
+{
+    font-family: 'Play', sans-serif;
+    width: 300px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: rgb(155, 155, 155);
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.name2
+{
+    margin-top: 19%;
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.gender
+{
+    font-family: 'Play', sans-serif;
+    width: 300px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: rgb(155, 155, 155);
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+
+/* .main-form2
+{
+    margin-top: 20%;
+    background: white;
+    width: 390px;
+    height: 435px;
+    margin: auto;
+    display: none;
+} */
+
+
+.username2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+.password2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+.main-form
+{
+    background: white;
+    width: 390px;
+    height: 330px;
+    margin: auto;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.this
+{
+    margin: auto;
+}
+
+.p
+{
+    font-family: 'Play', sans-serif;
+    color: darkgray;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.a
+{
+    color: rgb(107, 159, 180);
+    cursor: pointer;
+}
+
+.a:hover
+{
+    text-decoration: none;
+}
+
+.username
+{
+    margin-top: 22%;
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.password
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+hr
+{
+    width: 290px;
+    margin-top: 0px !important;
+    border-color: rgba(230, 230, 230, 0.219);
+}
+
+
+.submit-section
+{
+    margin-top: 20px;
+}
+
+.submit
+{
+    padding: 14px;
+    width: 290px;
+    color: white;
+    font-weight: bold;
+    background: rgba(116, 174, 197, 0.747);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: 'Play', sans-serif;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.submit:hover
+{
+    transition: .2s;
+    font-weight: bold;
+    background: rgb(108, 158, 179);
+}
+
+    .try
+    {   
+        display: flex;
+        margin-left: 75%;
+        margin-top: -49px;
+    }
+
+    .sel 
+    {
+        display: flex;
+        text-decoration: none;
+        margin: 10px;
+        font-family: 'Antic', sans-serif;
+        font-size: 17px;
+        color: rgb(116, 174, 197);
+        border: 1px solid  rgb(116, 174, 197);
+        padding: 10px 25px;
+    }
+
+    .sel:hover
+    {
+        background:  rgb(116, 174, 197);
+        color: white;
+        transition: .3s;
+    }
+
+    .les
+    {
+        display: flex;
+        text-decoration: none;
+        margin: 10px;
+        font-family: 'Antic', sans-serif;
+        font-size: 17px;
+        color: rgb(255, 255, 255);
+        border: 1px solid  rgb(116, 174, 197);
+        padding: 10px 25px;
+        background:  rgba(116, 174, 197, 0.747);
+    }
+
+    .les:hover
+    {
+        background: none;
+        color: rgb(116, 174, 197);
+        border: 1px solid  rgb(116, 174, 197);
+        transition: .3s;
+    }
+
+    .scroll-top-section
+    {
+        position: fixed;
+        bottom: 23%;
+        right: 25%;
+        cursor: pointer;
+    }
+
+    #scroll-top
+    {
+        background: rgb(128, 196, 223);
+        text-decoration: none;
+        color: white;
+        padding: 17px;
+        border-radius: 5px;
+    }
+
+    #scroll-top:hover
+    {
+        font-weight: bold;
+        background: rgb(110, 168, 190);
+        transition: .3s;
+    }
+
+    header
+{
+    background: #ffffff;
+    box-shadow: 1px 1px 1px rgba(221, 221, 221, 0.836);
+    width: 100%;
+    height:65px;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+.rm
+{
+    color: rgb(116, 174, 197);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.menu
+{
+    float: right;
+    padding: 0px 20px 0px;
+    margin-top: -36px;
+    display: none;
+}
+
+.logo
+{
+    font-size: 35px;
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    padding: 0px 90px 0px;
+    margin-top: 10px;
+}
+
+.upload
+{
+    float: right;
+    padding: 0px 20px 0px;
+    margin-top: 32%;
+    margin-left: 80%;
+    position: fixed;
+    background: white;
+    width: 170px;
+    padding: 10px;
+    border-radius: 50px;
+    box-shadow: 1px 3px 10px rgba(194, 194, 194, 0.836);
+}
+
+#post
+{
+    color: rgb(116, 174, 197);
+    font-size: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.create
+{
+    font-size: 16px;
+    font-family: 'Play', sans-serif;
+    margin-top: -20px;
+    margin-left: 50px;
+}
+
+#post:hover
+{
+    color: rgb(7, 148, 204);
+    transition: .2s;
+}
+
+.flex
+{
+    background: rgba(255, 255, 255, 0.808);
+    border: 1px solid rgb(209, 209, 209);
+    top: 64.8px;
+    left: 0;
+    right: 0;
+    position: fixed;
+    opacity: 10px;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.main 
+{
+    background: white;
+    width: 540px;
+    height: 250px;
+    margin: auto;
+    margin-top: 4.2%;
+    margin-left: 29.7%;
+    border: 1px solid rgb(219, 219, 219);
+    box-shadow: 1px 3px 10px rgba(221, 221, 221, 0.712);
+    position: fixed;
+}
+
+form
+{
+   text-align: center;
+   margin-top: 5%;
+}
+
+
+.text 
+{
+    padding: 10px;
+    width: 345px;
+    height: 50px;
+    font-size: 15px;
+    font-family: 'Antic', sans-serif;
+    color: rgba(107, 107, 107, 0.726);
+    outline: none;
+    border: none;
+    border: 1px solid rgb(206, 206, 206);
+    margin-left: -20%;
+}
+
+
+.btn 
+{
+    cursor: pointer;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.file
+{
+    cursor: pointer;
+    margin: 25px;
+    margin-left: -196.5px;
+    outline: none;
+    border: none;
+    color: rgb(116, 174, 197);
+}
+
+
+#pass
+{
+    color: rgb(116, 174, 197);
+    display: flex;
+}
+
+#pass:hover
+{
+    color: rgb(86, 125, 141);
+    transition: .3s;
+}
+
+
+.move
+{
+    margin-top: -12%;
+    margin-left: 68%;
+}
+
+.plus
+{
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 93%;
+    color: darkgray;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.plus:hover
+{
+    font-weight: bold;
+    transition: .3s;
+}
+
+.flex
+{
+    display: none;
+}
+
+.main-footer
+{
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    font-family: 'Antic', sans-serif;
+    padding: 0px 60px 20px;
+}
+
+.main-form 
+{
+    background: none;
+    width: 340px;
+    height: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: none;
+}
+
+    header
+{
+    background:  #ffffff;
+    border: 0.5px solid rgb(255, 255, 255);
+    width: 100%;
+    height:65px;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+    .submit
+{
+    padding: 14px;
+    height: 50px;
+    width: 290px;
+    color: white;
+    font-weight: bold;
+    background: #00AFF6;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+.submit:hover
+{
+    background: #0298d3;
+}
+
+    .username
+{
+    font-family: 'Play', sans-serif;
+    font-size: 15.5px;
+}
+
+    .password
+{
+    font-family: 'Play', sans-serif;
+    font-size: 15.5px;
+    padding: 10px 0px 0px;
+}
+
+
+
+.icon
+{
+    width: 70px;
+    display: none;
+}
+
+.main-heading
+{
+    text-align: center;
+}
+
+#icon
+{
+    color: gray;
+}
+
+.rm
+{
+    color: #00b0f6af;
+}
+
+.a 
+{
+    color: #00AFF6;
+}
+
+
+.forname
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.forage2
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forgender
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forusername2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+.forpassword2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+
+
+.forage
+{
+    width: 268px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.main-check
+{
+    text-align: center;
+}
+
+.check
+{
+    cursor: pointer;
+}
+
+}
+
+@media only screen and (max-width: 1024px)
+{
+
+    body 
+    {
+        background: white;
+        overflow-y: auto;
+    }
+
+    .hr
+    {
+        width: 268px;
+    }
+
+    hr
+    {
+        width: 290px;
+        margin-top: 0px !important;
+        border-color: rgba(230, 230, 230, 0.295);
+    }
+
+
+    .try
+    {   
+        display: none;
+    }
+
+    .sel 
+    {
+        display: none;
+    }
+
+    .les
+    {
+        display: none;
+    }
+
+    .this
+    {
+        margin-top: -50px;
+    }
+
+    .main-form 
+    {
+        background: none;
+        width: 340px;
+        height: 300px;
+        margin: auto;
+        box-shadow: none;
+        border: none;
+    }
+
+    .main-form2
+    {
+        display: none;
+    }
+
+        header
+    {
+        background:  #ffffff;
+        border: 0.5px solid rgb(255, 255, 255);
+        width: 100%;
+        height:65px;
+        top: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+    }
+
+        .submit
+    {
+        padding: 14px;
+        height: 50px;
+        width: 290px;
+        color: white;
+        font-weight: bold;
+        background: #00AFF6;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 15px;
+        border-radius: 50px;
+    }
+    
+    .submit:hover
+    {
+        background: #0298d3;
+    }
+
+        .username
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+    }
+
+        .password
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+        padding: 10px 0px 0px;
+    }
+
+    .icon
+    {
+        width: 70px;
+        display: none;
+    }
+
+    .main-heading
+    {
+        text-align: center;
+    }
+
+    #icon
+    {
+        color: gray;
+    }
+
+    .rm
+    {
+        color: #00b0f6af;
+    }
+
+    .a 
+    {
+        color: #00AFF6;
+    }
+
+    #bar
+    {
+        color: #00b0f6ad;
+    }
+
+    .scroll-top-section
+    {
+        position: fixed;
+        bottom: 20%;
+        right: 10%;
+        cursor: pointer;
+    }
+
+    .fb-comments
+    {
+        margin-top: -700px;
+    }
+
+        .forname
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.forage2
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forgender
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forusername2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+.forpassword2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+
+
+.forage
+{
+    width: 268px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.main-check
+{
+    text-align: center;
+}
+
+.heading
+{
+    margin-top: 15%;
+}
+
+.this-heading
+{
+   display: none;
+}
+
+.btm
+{
+   display: none;
+}
+
+.more
+{
+  display: none;
+}
+
+.remo
+{
+    display: none;
+}
+
+
+.side
+{   
+text-align: center;
+margin-left: 32%;
+border: none;
+border-radius: 0px;
+margin-top: -33%;
+padding: 0px;
+background-color: white;
+}
+
+img
+{
+width: 65px;
+border-radius: 50px;
+}
+
+.image
+{
+display: none;
+}
+
+
+
+.logo
+{
+text-decoration: none;
+color: #02A7F7;
+}
+
+.this
+{
+margin-top: 50%;
+margin-left: 0px;
+}
+}
+
+
+@media only screen and (max-width: 768px)
+{
+    body 
+    {
+        background: white;
+        overflow-y: auto;
+    }
+
+    .hr
+    {
+        width: 268px;
+    }
+
+    hr
+    {
+        width: 290px;
+        margin-top: 0px !important;
+        border-color: rgba(230, 230, 230, 0.295);
+    }
+
+
+    .try
+    {   
+        display: none;
+    }
+
+    .sel 
+    {
+        display: none;
+    }
+
+    .les
+    {
+        display: none;
+    }
+
+    .this
+    {
+        margin-top: -50px;
+    }
+
+    .main-form 
+    {
+        background: none;
+        width: 340px;
+        height: 300px;
+        margin: auto;
+        box-shadow: none;
+        border: none;
+    }
+
+    .main-form2
+    {
+        display: none;
+    }
+
+        header
+    {
+        background:  #ffffff;
+        border: 0.5px solid rgb(255, 255, 255);
+        width: 100%;
+        height:65px;
+        top: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+    }
+
+        .submit
+    {
+        padding: 14px;
+        height: 50px;
+        width: 290px;
+        color: white;
+        font-weight: bold;
+        background: #00AFF6;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 15px;
+        border-radius: 50px;
+    }
+    
+    .submit:hover
+    {
+        background: #0298d3;
+    }
+
+        .username
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+    }
+
+        .password
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+        padding: 10px 0px 0px;
+    }
+
+    .icon
+    {
+        width: 70px;
+        display: none;
+    }
+
+    .main-heading
+    {
+        text-align: center;
+    }
+
+    #icon
+    {
+        color: gray;
+    }
+
+    .rm
+    {
+        color: #00b0f6af;
+    }
+
+    .a 
+    {
+        color: #00AFF6;
+    }
+
+    #bar
+    {
+        color: #00b0f6ad;
+    }
+
+    .scroll-top-section
+    {
+        position: fixed;
+        bottom: 20%;
+        right: 10%;
+        cursor: pointer;
+    }
+
+    .fb-comments
+    {
+        margin-top: -700px;
+    }
+
+        .forname
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.forage2
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forgender
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forusername2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+.forpassword2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+
+
+.forage
+{
+    width: 268px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.main-check
+{
+    text-align: center;
+}
+
+.heading
+{
+    margin-top: 15%;
+}
+
+.this-heading
+{
+   display: none;
+}
+
+.btm
+{
+   display: none;
+}
+
+.more
+{
+  display: none;
+}
+
+.remo
+{
+    display: none;
+}
+
+
+.side
+{   
+text-align: center;
+margin-left: -8px;
+border: none;
+border-radius: 0px;
+margin-top: -33%;
+padding: 0px;
+background-color: white;
+}
+
+img
+{
+width: 65px;
+border-radius: 50px;
+}
+
+.image
+{
+display: none;
+}
+
+
+
+.logo
+{
+text-decoration: none;
+color: #02A7F7;
+}
+
+.this
+{
+margin-top: 10%;
+margin-left: 0px;
+}
+    
+}
+
+@media only screen and (max-width: 540px)
+{
+    body 
+    {
+        background: white;
+        overflow-y: auto;
+    }
+
+    .hr
+    {
+        width: 268px;
+    }
+
+    hr
+    {
+        width: 290px;
+        margin-top: 0px !important;
+        border-color: rgba(230, 230, 230, 0.295);
+    }
+
+
+    .try
+    {   
+        display: none;
+    }
+
+    .sel 
+    {
+        display: none;
+    }
+
+    .les
+    {
+        display: none;
+    }
+
+    .this
+    {
+        margin-top: -50px;
+    }
+
+    .main-form 
+    {
+        background: none;
+        width: 340px;
+        height: 300px;
+        margin: auto;
+        box-shadow: none;
+        border: none;
+    }
+
+    .main-form2
+    {
+        display: none;
+    }
+
+        header
+    {
+        background:  #ffffff;
+        border: 0.5px solid rgb(255, 255, 255);
+        width: 100%;
+        height:65px;
+        top: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+    }
+
+        .submit
+    {
+        padding: 14px;
+        height: 50px;
+        width: 290px;
+        color: white;
+        font-weight: bold;
+        background: #00AFF6;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 15px;
+        border-radius: 50px;
+    }
+    
+    .submit:hover
+    {
+        background: #0298d3;
+    }
+
+        .username
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+    }
+
+        .password
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+        padding: 10px 0px 0px;
+    }
+
+    .icon
+    {
+        width: 70px;
+        display: none;
+    }
+
+    .main-heading
+    {
+        text-align: center;
+    }
+
+    #icon
+    {
+        color: gray;
+    }
+
+    .rm
+    {
+        color: #00b0f6af;
+    }
+
+    .a 
+    {
+        color: #00AFF6;
+    }
+
+    #bar
+    {
+        color: #00b0f6ad;
+    }
+
+    .scroll-top-section
+    {
+        position: fixed;
+        bottom: 20%;
+        right: 10%;
+        cursor: pointer;
+    }
+
+    .fb-comments
+    {
+        margin-top: -700px;
+    }
+
+        .forname
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.forage2
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forgender
+{
+    width: 297px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.forusername2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+.forpassword2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+}
+
+
+
+.forage
+{
+    width: 268px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+.main-check
+{
+    text-align: center;
+}
+
+.heading
+{
+    margin-top: 15%;
+}
+
+.this-heading
+{
+   display: none;
+}
+
+.btm
+{
+   display: none;
+}
+
+.more
+{
+  display: none;
+}
+
+.remo
+{
+    display: none;
+}
+
+
+.side
+{   
+text-align: center;
+margin-left: -8px;
+border: none;
+border-radius: 0px;
+margin-top: -33%;
+padding: 0px;
+background-color: white;
+}
+
+img
+{
+width: 65px;
+border-radius: 50px;
+}
+
+.image
+{
+display: none;
+}
+
+
+
+.logo
+{
+text-decoration: none;
+color: #02A7F7;
+}
+
+.this
+{
+margin-top: 10%;
+margin-left: 0px;
+}
+}
+
+@media only screen and (max-width: 475px)
+
+{
+       body 
+        {
+            background: white;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .forname
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+        }
+    
+        .forage2
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forgender
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forusername2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        .forpassword2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        
+    
+        .forage
+        {
+            width: 268px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .main-check
+        {
+            text-align: center;
+        }
+    
+        .check
+        {
+            cursor: pointer;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .forname
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+        }
+    
+        .forage2
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forgender
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forusername2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        .forpassword2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        
+    
+        .forage
+        {
+            width: 268px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .main-check
+        {
+            text-align: center;
+        }
+    
+        .check
+        {
+            cursor: pointer;
+        }
+
+        
+        #bar
+        {
+            color: #00b0f6ad;
+        }
+
+        hr
+        {
+            width: 268px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+        .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            box-shadow: 1px lightgray;
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: rgba(116, 174, 197, 0.747);
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+        .miraluna-icon
+        {
+            text-align: center;
+            padding: 110px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+        }
+
+.this2
+{
+    margin-top: 40%;
+}
+
+
+.age
+{
+    font-family: 'Play', sans-serif;
+    width: 300px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: rgb(155, 155, 155);
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.name2
+{
+    margin-top: 19%;
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.gender
+{
+    font-family: 'Play', sans-serif;
+    width: 300px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: rgb(155, 155, 155);
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+
+.main-form2
+{
+    margin-top: 20%;
+    background: white;
+    width: 340px;
+    height: 435px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 1px 5px 7px rgb(194, 194, 194);
+}
+
+
+.username2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+.password2
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+.this
+{
+    margin-top: 50%;
+}
+
+.main-form
+{
+    background: white;
+    width: 340px;
+    height: 300px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 1px 5px 7px rgb(194, 194, 194);
+}
+
+.p
+{
+    font-family: 'Play', sans-serif;
+    color: darkgray;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.a
+{
+    color: rgb(107, 159, 180);
+    cursor: pointer;
+}
+
+.a:hover
+{
+    text-decoration: none;
+}
+
+.username
+{
+    margin-top: 25%;
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    color: rgb(116, 116, 116);
+}
+
+.password
+{
+    width: 290px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    font-family: 'Antic', sans-serif;
+    margin-top: 15px;
+    color: rgb(116, 116, 116);
+}
+
+hr
+{
+    width: 290px;
+    margin-top: 0px !important;
+    border-color: rgb(230, 230, 230);
+}
+
+
+.submit-section
+{
+    margin-top: 20px;
+}
+
+.submit
+{
+    padding: 14px;
+    width: 290px;
+    color: white;
+    font-weight: bold;
+    background: rgba(116, 174, 197, 0.747);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: 'Play', sans-serif;
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+.submit:hover
+{
+    transition: .2s;
+    font-weight: bold;
+    background: rgb(108, 158, 179);
+}
+
+.try
+{   
+    display: none;
+}
+
+.sel 
+{
+    display: none;
+}
+
+.les
+{
+    display: none;
+}
+
+
+.rm
+{
+    color: rgb(116, 174, 197);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.menu
+{
+    float: right;
+    padding: 0px 20px 0px;
+    margin-top: -36px;
+    display: flex;
+}
+
+#bar
+{
+    color: rgb(116, 174, 197);
+    font-size: 35px;
+    cursor: pointer;
+}
+
+#bar:hover
+{
+    color: rgb(7, 148, 204);
+    transition: .2s;
+}
+
+.logo
+{
+    font-size: 35px;
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    padding: 0px 20px 0px;
+    margin-top: 10px;
+}
+
+.upload
+{
+    display: flex;
+    justify-content: center;
+    padding: 0px 20px 0px;
+    margin-top: 20%;
+    margin-left: 17.9%;
+    border-radius: 0px;
+    box-shadow: none;
+    border: 1px solid rgb(223, 223, 223);
+}
+
+
+#post
+{
+    color: rgb(116, 174, 197);
+    font-size: 35px;
+    cursor: pointer;
+}
+
+#post:hover
+{
+    color: rgb(7, 148, 204);
+    transition: .2s;
+}
+
+.main 
+{
+    background: white;
+    width: 345px;
+    height: 200px;
+    margin: auto;
+    margin-top: 1%;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(223, 223, 223);
+}
+
+form
+{
+   text-align: center;
+   margin-top: 5%;
+}
+
+
+.text 
+{
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(146, 146, 146);
+    outline: none;
+    border: none;
+    border: 1px solid rgb(202, 202, 202);
+    margin-left: -20%;
+}
+
+
+.btn 
+{
+    cursor: pointer;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.file
+{
+    cursor: pointer;
+    margin: 20px;
+    margin-left: -15px;
+    outline: none;
+    border: none;
+}
+
+
+#pass
+{
+    color: rgb(116, 174, 197);
+}
+
+
+.move
+{
+    margin-top: -19%;
+    margin-left: 68%;
+}
+
+.plus
+{
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 90%;
+    color: darkgray;
+    transform: rotate(45deg);
+}
+
+.plus:hover
+{
+    font-weight: bold;
+    transition: .1s;
+}
+
+.flex
+{
+    display: none;
+}
+
+.scroll-top-section
+    {
+        position: fixed;
+        bottom: 8%;
+        right: 10%;
+        cursor: pointer;
+    }
+
+    #scroll-top
+    {
+        background: rgba(136, 207, 235, 0.616);
+        text-decoration: none;
+        color: white;
+        padding: 17px;
+        border-radius: 5px;
+    }
+
+    #scroll-top:hover
+    {
+        font-weight: bold;
+        background: rgb(110, 168, 190);
+        transition: .3s;
+    }
+       body 
+        {
+            background: white;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+        hr
+        {
+            width: 268px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+    }
+    @media only screen and (max-width: 430px)
+    {
+        .scroll-top-section
+    {
+        position: fixed;
+        bottom: 8%;
+        right: 10%;
+        cursor: pointer;
+    }
+    
+    .main-form 
+    {
+        background: none;
+        width: 340px;
+        height: 300px;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: none;
+    }
+
+        header
+    {
+        background:  #ffffff;
+        border: 0.5px solid rgb(255, 255, 255);
+        width: 100%;
+        height:65px;
+        top: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+    }
+
+        .submit
+    {
+        padding: 14px;
+        height: 50px;
+        width: 290px;
+        color: white;
+        font-weight: bold;
+        background: #00AFF6;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-family: sans-serif;
+        font-size: 15px;
+        border-radius: 50px;
+    }
+    
+    .submit:hover
+    {
+        background: #0298d3;
+    }
+
+        .username
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+    }
+
+        .password
+    {
+        font-family: sans-serif;
+        font-size: 15.5px;
+        padding: 10px 0px 0px;
+    }
+
+
+
+    .icon
+    {
+        width: 70px;
+        display: none;
+    }
+
+    .main-heading
+    {
+        text-align: center;
+    }
+
+    #icon
+    {
+        color: gray;
+    }
+
+    .rm
+    {
+        color: #00b0f6af;
+    }
+
+    .a 
+    {
+        color: #00AFF6;
+    }
+
+    .try
+    {   
+        display: none;
+    }
+
+    .sel 
+    {
+        display: none;
+    }
+
+    .les
+    {
+        display: none;
+    }
+
+    #scroll-top
+    {
+        background: rgba(136, 207, 235, 0.616);
+        text-decoration: none;
+        color: white;
+        padding: 17px;
+        border-radius: 5px;
+    }
+
+    #scroll-top:hover
+    {
+        font-weight: bold;
+        background: rgb(110, 168, 190);
+        transition: .3s;
+    }
+
+            .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            box-shadow: 1px 1px lightgray;
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: rgba(116, 174, 197, 0.747);
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+        .miraluna-icon
+        {
+            text-align: center;
+            padding: 110px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+        }
+           body 
+        {
+            background: white;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+
+        hr
+        {
+            width: 268px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+    }
+
+@media only screen and (max-width: 418px)
+    {
+        body 
+        {
+            background: white;
+            overflow-y: auto;
+        }
+
+        .hr
+        {
+            width: 268px;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+
+        .try
+        {   
+            display: none;
+        }
+    
+        .sel 
+        {
+            display: none;
+        }
+    
+        .les
+        {
+            display: none;
+        }
+
+        .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            box-shadow: none;
+            border: none;
+        }
+
+        .main-form2
+        {
+            display: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+        #bar
+        {
+            color: #00b0f6ad;
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .fb-comments
+        {
+            margin-top: -700px;
+        }
+
+            .forname
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+    }
+
+    .forage2
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forgender
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forusername2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    .forpassword2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    
+
+    .forage
+    {
+        width: 268px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .main-check
+    {
+        text-align: center;
+    }
+
+    .heading
+    {
+        margin-top: 15%;
+    }
+   
+    .this-heading
+    {
+       display: none;
+    }
+   
+    .btm
+    {
+       display: none;
+    }
+   
+    .more
+    {
+      display: none;
+    }
+   
+    .remo
+    {
+        display: none;
+    }
+
+
+    .side
+{   
+    text-align: center;
+    margin-left: -8px;
+    border: none;
+    border-radius: 0px;
+    margin-top: -33%;
+    padding: 0px;
+    background-color: white;
+}
+
+img
+{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.image
+{
+    display: none;
+}
+
+
+
+.logo
+{
+    text-decoration: none;
+    color: #02A7F7;
+}
+
+.this
+{
+    margin-top: 10%;
+    margin-left: 0px;
+}
+    }
+    
+    @media only screen and (max-width: 414px)
+    {
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .forname
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+        }
+    
+        .forage2
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forgender
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forusername2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        .forpassword2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        
+    
+        .forage
+        {
+            width: 268px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .main-check
+        {
+            text-align: center;
+        }
+    
+        .check
+        {
+            cursor: pointer;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 8%;
+            right: 10%;
+            cursor: pointer;
+        }
+    
+        #scroll-top
+        {
+            background: rgba(136, 207, 235, 0.616);
+            text-decoration: none;
+            color: white;
+            padding: 17px;
+            border-radius: 5px;
+        }
+    
+        #scroll-top:hover
+        {
+            font-weight: bold;
+            background: rgb(110, 168, 190);
+            transition: .3s;
+        }
+        .try
+        {   
+            display: none;
+        }
+    
+        .sel 
+        {
+            display: none;
+        }
+    
+        .les
+        {
+            display: none;
+        }
+
+                .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            box-shadow: 1px 1px lightgray;
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: rgba(116, 174, 197, 0.747);
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+
+        .miraluna-icon
+        {
+            text-align: center;
+            padding: 110px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+        }
+           body 
+        {
+            background: white;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .forname
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+        }
+    
+        .forage2
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forgender
+        {
+            width: 297px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .forusername2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        .forpassword2
+        {
+            width: 290px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+        }
+    
+        
+    
+        .forage
+        {
+            width: 268px;
+            outline: none;
+            border: none;
+            font-size: 16px;
+            font-family: 'Antic', sans-serif;
+            color: rgb(116, 116, 116);
+            margin-top: 25px;
+            cursor: pointer;
+        }
+    
+        .main-check
+        {
+            text-align: center;
+        }
+    
+        .check
+        {
+            cursor: pointer;
+        }
+
+
+        .side
+        {   
+            text-align: center;
+            margin-left: 20px;
+            border: none;
+            border-radius: 0px;
+            margin-top: -33%;
+            padding: 0px;
+            background-color: white;
+        }
+
+        .this
+        {
+            margin-top: 20%;
+        }
+    }
+
+    @media only screen and (max-width: 411px)
+    {
+        body 
+        {
+            background: white;
+            overflow-y: auto;
+        }
+
+        .hr
+        {
+            width: 268px;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+
+        .try
+        {   
+            display: none;
+        }
+    
+        .sel 
+        {
+            display: none;
+        }
+    
+        .les
+        {
+            display: none;
+        }
+
+        .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            box-shadow: none;
+            border: none;
+        }
+
+        .main-form2
+        {
+            display: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+        #bar
+        {
+            color: #00b0f6ad;
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .fb-comments
+        {
+            margin-top: -700px;
+        }
+
+            .forname
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+    }
+
+    .forage2
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forgender
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forusername2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    .forpassword2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    
+
+    .forage
+    {
+        width: 268px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .main-check
+    {
+        text-align: center;
+    }
+
+    .heading
+    {
+        margin-top: 15%;
+    }
+   
+    .this-heading
+    {
+       display: none;
+    }
+   
+    .btm
+    {
+       display: none;
+    }
+   
+    .more
+    {
+      display: none;
+    }
+   
+    .remo
+    {
+        display: none;
+    }
+
+
+    .side
+{   
+    text-align: center;
+    margin-left: 20px;
+    border: none;
+    border-radius: 0px;
+    margin-top: -33%;
+    padding: 0px;
+    background-color: white;
+}
+
+img
+{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.image
+{
+    display: none;
+}
+
+
+
+.logo
+{
+    text-decoration: none;
+    color: #02A7F7;
+}
+
+.this
+{
+    margin-top: 10%;
+    margin-left: 0px;
+}
+}
+
+@media only screen and (max-width: 375px)
+{
+            body 
+        {
+            background: white;
+            overflow-y: auto;
+        }
+
+        .hr
+        {
+            width: 268px;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+
+        .try
+        {   
+            display: none;
+        }
+    
+        .sel 
+        {
+            display: none;
+        }
+    
+        .les
+        {
+            display: none;
+        }
+
+        .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            box-shadow: none;
+            border: none;
+        }
+
+        .main-form2
+        {
+            display: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+        #bar
+        {
+            color: #00b0f6ad;
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .fb-comments
+        {
+            margin-top: -700px;
+        }
+
+            .forname
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+    }
+
+    .forage2
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forgender
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forusername2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    .forpassword2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    
+
+    .forage
+    {
+        width: 268px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .main-check
+    {
+        text-align: center;
+    }
+
+    .heading
+    {
+        margin-top: 15%;
+    }
+   
+    .this-heading
+    {
+       display: none;
+    }
+   
+    .btm
+    {
+       display: none;
+    }
+   
+    .more
+    {
+      display: none;
+    }
+   
+    .remo
+    {
+        display: none;
+    }
+
+
+    .side
+{   
+    text-align: center;
+    margin-left: 3px;
+    border: none;
+    border-radius: 0px;
+    margin-top: -33%;
+    padding: 0px;
+    background-color: white;
+}
+
+img
+{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.image
+{
+    display: none;
+}
+
+
+
+.logo
+{
+    text-decoration: none;
+    color: #02A7F7;
+}
+
+.this
+{
+    margin-top: 10%;
+    margin-left: 0px;
+}
+}
+
+    @media only screen and (max-width: 360px)
+    {
+
+        body 
+        {
+            background: white;
+            overflow-y: auto;
+        }
+
+        .hr
+        {
+            width: 268px;
+        }
+
+        hr
+        {
+            width: 290px;
+            margin-top: 0px !important;
+            border-color: rgba(230, 230, 230, 0.295);
+        }
+
+
+        .try
+        {   
+            display: none;
+        }
+    
+        .sel 
+        {
+            display: none;
+        }
+    
+        .les
+        {
+            display: none;
+        }
+
+        .this
+        {
+            margin-top: -50px;
+        }
+
+        .main-form 
+        {
+            background: none;
+            width: 340px;
+            height: 300px;
+            margin: auto;
+            box-shadow: none;
+            border: none;
+        }
+
+        .main-form2
+        {
+            display: none;
+        }
+
+            header
+        {
+            background:  #ffffff;
+            border: 0.5px solid rgb(255, 255, 255);
+            width: 100%;
+            height:65px;
+            top: 0;
+            left: 0;
+            right: 0;
+            position: fixed;
+        }
+
+            .submit
+        {
+            padding: 14px;
+            height: 50px;
+            width: 290px;
+            color: white;
+            font-weight: bold;
+            background: #00AFF6;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            font-family: sans-serif;
+            font-size: 15px;
+            border-radius: 50px;
+        }
+        
+        .submit:hover
+        {
+            background: #0298d3;
+        }
+
+            .username
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+        }
+
+            .password
+        {
+            font-family: sans-serif;
+            font-size: 15.5px;
+            padding: 10px 0px 0px;
+        }
+
+        .icon
+        {
+            width: 70px;
+            display: none;
+        }
+
+        .main-heading
+        {
+            text-align: center;
+        }
+
+        #icon
+        {
+            color: gray;
+        }
+
+        .rm
+        {
+            color: #00b0f6af;
+        }
+
+        .a 
+        {
+            color: #00AFF6;
+        }
+
+        #bar
+        {
+            color: #00b0f6ad;
+        }
+
+        .scroll-top-section
+        {
+            position: fixed;
+            bottom: 20%;
+            right: 10%;
+            cursor: pointer;
+        }
+
+        .fb-comments
+        {
+            margin-top: -700px;
+        }
+
+            .forname
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+    }
+
+    .forage2
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forgender
+    {
+        width: 297px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .forusername2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    .forpassword2
+    {
+        width: 290px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+    }
+
+    
+
+    .forage
+    {
+        width: 268px;
+        outline: none;
+        border: none;
+        font-size: 16px;
+        font-family: 'Antic', sans-serif;
+        color: rgb(116, 116, 116);
+        margin-top: 25px;
+        cursor: pointer;
+    }
+
+    .main-check
+    {
+        text-align: center;
+    }
+
+    .heading
+    {
+        margin-top: 15%;
+    }
+   
+    .this-heading
+    {
+       display: none;
+    }
+   
+    .btm
+    {
+       display: none;
+    }
+   
+    .more
+    {
+      display: none;
+    }
+   
+    .remo
+    {
+        display: none;
+    }
+
+
+    .side
+{   
+    text-align: center;
+    margin-left: -8px;
+    border: none;
+    border-radius: 0px;
+    margin-top: -33%;
+    padding: 0px;
+    background-color: white;
+}
+
+img
+{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.image
+{
+    display: none;
+}
+
+
+
+.logo
+{
+    text-decoration: none;
+    color: #02A7F7;
+}
+
+.this
+{
+    margin-top: 10%;
+    margin-left: 0px;
+}
+}
+
